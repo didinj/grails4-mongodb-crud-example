@@ -1,6 +1,6 @@
 # Building a CRUD Web Application Using Grails 6 and MongoDB
 
-Read more article [here]().
+Read more article [here](https://www.djamware.com/post/5d385e00fd741853d22abf5c/building-a-crud-web-application-using-grails-6-and-mongodb).
 
 ## Grails 6.2.3 Documentation
 
